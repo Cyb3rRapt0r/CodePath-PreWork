@@ -44,16 +44,16 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+[I have not used any outside resources, only the ones contained in the pre-work instructions.]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[The prework instructions was straight forward enough to understand and follow. The drop-down menus that explain specific subjects, like what a CSS Selector Reference does, was very insightful and I had no problems applying them to the web game. However, there were some inconsistencies in the instructions that at times made me confused. For example, on number 8 of the required steps, it states to create two functions for lighting and clearing a button. The code presented was missing semi-colons at the end of some lines while earlier examples included them. I remember reading that it's a good habit to use semi-colons when coding even when it doesn't require it, to maintain consistency. Although, JavaScript seems smart enough to understand and run the code without any issues regardless. I wasn't sure if I should put them in or leave them out in fear of not following directions or the possibility of the code malfunctioning. With or without semi-colons in JavaScript, the code ran perfectly fine anyway. In the end, I realized I was probably thinking too much on something that really didn't need this much attention and moved on. But just in case, I will still place them at the end of each line necessary just so it doesn't bother me.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[After completing the prework, I became interested to learn more about how websites are created and what other ways that CSS, HTML, and JavaScript can be incorporated into them. My first time using Glitch IDE introduced a new perspective on how web development is done. I thought the JavaScript code that played sounds with different pitches was fascinating and I wonder what other similar functions can be programmed. How do you setup a website that connects to servers and databases? How do I embed YouTube videos and other media? How can I make a website that looks professional with smooth transitions when scrolling?]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[I would be interested in adding multiple rounds (<= 8 turns per round) where a new gimmick is introduced while the playback speed gradually increases after each turn is completed. When a new round starts, playback speed resets back to normal. The patterns would be randomized after the second round so to make the player anticipate new patterns. After the second round is completed, I would randomly replace one of the pressed buttons with a scary image and an audio of a short scream to give the player a little jump scare. The background would start slowly spinning to try to distract the player from memorizing patterns.]
 
 
 
